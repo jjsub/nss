@@ -13,10 +13,14 @@ div {
 
 .hide {
   display: none;
+  color: green;
+  border-bottom: dotted 5px blue;
+  font-style: italic;
 }
 
 .show {
   display: initial;
+
 }
 
 /*
